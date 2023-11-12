@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.virtuaalistudio-23901901.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/lauri/OneDrive/Tiedostot/Unreal Projects/Virtuaalistudio/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Virtuaalistudio-23901901 [UE Editor]"
+				}
+			}
+		}
+	]
+}
