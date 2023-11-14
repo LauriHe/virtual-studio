@@ -148,10 +148,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NDIIOPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "CameraCalibration",
 			"Enabled": true
 		},
